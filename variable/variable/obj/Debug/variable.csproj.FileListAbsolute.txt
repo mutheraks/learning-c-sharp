@@ -1,0 +1,6 @@
+E:\visual studio codes\variable\variable\bin\Debug\variable.exe.config
+E:\visual studio codes\variable\variable\bin\Debug\variable.exe
+E:\visual studio codes\variable\variable\bin\Debug\variable.pdb
+E:\visual studio codes\variable\variable\obj\Debug\variable.csprojResolveAssemblyReference.cache
+E:\visual studio codes\variable\variable\obj\Debug\variable.exe
+E:\visual studio codes\variable\variable\obj\Debug\variable.pdb
